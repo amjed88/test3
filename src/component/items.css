@@ -1,0 +1,60 @@
+
+.navebar{
+    overflow: hidden;
+    background-color: #080;
+    color: #fff;
+}
+.continet{
+    width: 80%;
+    margin: auto;
+}
+.LOGO{
+    font-size: 25px;
+    width: 30%;
+    float: left;
+    display: block;
+    margin: 10px 0;
+    color: #fff;
+
+}
+ul{
+    width: 70%;
+    float: left;
+    padding: 0;
+    text-align: right;
+}
+.a{
+    text-decoration: none;
+    color: #fff;
+    margin: 0 15px;
+}
+.labl{
+    float: left;
+}
+.labl1{
+    float: left;
+    text-align: right;
+}
+.main{
+    height: 300px;
+    width: 200px;
+
+}
+.div2{
+    height: 40px;
+    width: 90px;
+}
+table, th, td {
+    border: 1px solid black;
+  }
+  .login{
+    height: 100vh;
+      background-color: #d4d3d3;
+      margin-left: 2%;
+      margin-right: 2%;
+      padding-left: 300px;
+      padding-right: 800px;
+  }
+  #bod{
+      background-color: aqua;
+  }
